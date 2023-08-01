@@ -1,5 +1,5 @@
-title:               Deepesh Toshniwal
-url:                 https://dtoshniwal.github.io
+title:               Rekha Khot
+url:                 https://RekhaKhot.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -16,9 +16,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Deepesh Toshniwal
-  url:               dtoshniwal.github.io
-  email:             d.toshniwal@tudelft.nl
+  name:              Rekha Khot
+  url:               RekhaKhot.github.io
+  email:             rekha.khot@monash.edu
 
 blog:
   truncated_preview: true
