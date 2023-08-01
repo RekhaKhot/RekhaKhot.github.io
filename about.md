@@ -24,7 +24,7 @@ Indian Institute of Technology Bombay, India.
 <h2 class="message" align="center">Education</h2>
 <br>
 <span style="font-weight:bold">Ph.D.,  Department of Mathematics
-  </span>, May 2019
+  </span>, August 2022
 <br>
 Advisors: Prof. Amiya K. Pani and Prof. Carsten Carstensen
 <br>
