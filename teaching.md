@@ -6,8 +6,8 @@ title: Teaching
 <br>
 <h2 class="message" align="center">Monash University</h2>
 
-<span style="font-weight:bold">2022-2023</span>
-* Introduction to Scientific Coding
+<span style="font-weight:bold">2023</span>
+* Introduction to Scientific Coding 
 * Staff at Mathematics Learning Center
 
 <h2 class="message" align="center"> Indian Institute of Technology Bombay<span>&#42;</span></h2>
