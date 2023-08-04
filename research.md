@@ -6,7 +6,6 @@ title: Research
 
 <div id="gallery-container">
     <div class='textblock'>
-        <img src="{{ site.baseurl}}/research_imgs/spl.png" class="gallery-thumb" />
         <ul style="list-style-type:none;">
         	<li class="hover-item">Numerical Analysis </li>
         	<li class="hover-item">Finite Element Methods </li>
