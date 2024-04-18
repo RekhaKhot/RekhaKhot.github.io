@@ -29,43 +29,33 @@ title: Research
 <h2 class="message" align="center">Scientific publications</h2>
 <h3 align="center">Preprints</h3>
 
+* <i>Robust virtual element methods for coupled stress-assisted diffusion problems.
+R. Khot, AE. Rubiano and R. Ruiz-Baier, 2024
+[arXiv:2401.09714](https://arxiv.org/abs/2401.09714)
 
-
-* <i>Virtual element methods for the Biot-Kirchhoff Poroelasticity.</i>
-<br>
-R. Khot, D. Mora and R. Ruiz-Baier.
-<br>
+* <i>Virtual element methods for the Biot-Kirchhoff Poroelasticity.
+R. Khot, D. Mora and R. Ruiz-Baier, 2023
 [arXiv:2306.13890 (math.NA)](https://https://arxiv.org/abs/2306.13890/)
-
-* <i>Conforming VEM for general second-order elliptic problems with rough data on polygonal meshes and its application to a inverse
-source problem.</i>
-<br>
-R. Khot, N. Nataraj and N. Verma.
-<br>
-[arXiv: 2302.08718(math.NA)](https://https://arxiv.org/abs/2302.08718/)
 
 
 <h3 align="center">Published/Accepted</h3>
 
-* <i>Nonconforming virtual elements for the biharmonic equation with Morley degrees of freedom on polygonal meshes.</i>
-<br>
-C. Carstensen, R. Khot and A. K. Pani.
-<br>
-SIAM Journal on Numerical Analysis.
+* <i>Conforming VEM for general second-order elliptic problems with rough data on polygonal meshes and its application to a inverse
+source problem.
+R. Khot, N. Nataraj and N. Verma, Mathematical Models and Methods in Applied Sciences, 2023.
+
+* <i>Nonconforming virtual elements for the biharmonic equation with Morley degrees of freedom on polygonal meshes.
+C. Carstensen, R. Khot and A. K. Pani,
+SIAM Journal on Numerical Analysis, 2023.
 
 
-* <i>A priori and a posteriori error analysis of the lowest-order NCVEM for second-order linear indefinite elliptic problems.</i>
-<br>
-C. Carstensen, R. Khot and A. K. Pani.
-<br>
+* <i>A priori and a posteriori error analysis of the lowest-order NCVEM for second-order linear indefinite elliptic problems.
+C. Carstensen, R. Khot and A. K. Pani,
 Numerische Mathematik, 2022.
 
 <h2 class="message" align="center">Other writings</h2>
 
 
 * <i>Nonconforming Virtual Element Method for Linear Elliptic Boundary
-Value Problems.</i>
-<br>
-R. Khot.
-<br>
+Value Problems. R. Khot,
 PhD dissertation, Indian Institute of Technology Bombay, India.
