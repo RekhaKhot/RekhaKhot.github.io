@@ -6,14 +6,14 @@ title: About
 <br>
 <h2 class="message" align="center">Work Experience</h2>
 <br>
-<span style="font-weight:bold"></i>Postdoctoral Research Fellow</span>, January 2024 - Present
+<span style="font-weight:bold">Postdoctoral Research Fellow</span>, January 2024 - Present
 <br>
 SERENA Team,
 <br>
 INRIA, Paris, France.
 <br>
 <br>
-<span style="font-weight:bold"></i>Postdoctoral Research Fellow</span>, January 2023 - December 2023
+<span style="font-weight:bold">Postdoctoral Research Fellow</span>, January 2023 - December 2023
 <br>
 School of Mathematics,
 <br>
