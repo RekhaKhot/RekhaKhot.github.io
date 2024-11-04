@@ -16,6 +16,8 @@ CERMICS,
 <br>
 ENPC, IP Paris, France.
 <br>
+Funding: Fondation Sciences Mathematiques de Paris (FSMP)
+<br>
 <br>
 <span style="font-weight:bold">Postdoctoral Research Fellow</span>, January 2023 - December 2023
 <br>
