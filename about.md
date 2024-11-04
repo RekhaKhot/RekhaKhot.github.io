@@ -10,7 +10,7 @@ title: About
 <br>
 SERENA Team,
 <br>
-INRIA, IP Paris, France. 
+INRIA, Paris, France. 
 <br>
 CERMICS,
 <br>
