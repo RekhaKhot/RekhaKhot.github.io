@@ -29,16 +29,17 @@ title: Research
 <h2 class="message" align="center">Scientific publications</h2>
 <h3 align="center">Preprints</h3>
 
-* <i>Robust virtual element methods for coupled stress-assisted diffusion problems.
-R. Khot, AE. Rubiano and R. Ruiz-Baier, 2024
-[arXiv:2401.09714](https://arxiv.org/abs/2401.09714)
-
-* <i>Virtual element methods for the Biot-Kirchhoff Poroelasticity.
-R. Khot, D. Mora and R. Ruiz-Baier, 2023
-[arXiv:2306.13890 (math.NA)](https://https://arxiv.org/abs/2306.13890/)
-
+* <i>Explicit Runge-Kutta schemes with hybrid high-order methods for the wave equation in first-order form.
+A. Ern and R. Khot, 2024
+[hal-04763478]( https://hal.science/hal-04763478)
 
 <h3 align="center">Published/Accepted</h3>
+
+* <i>Robust virtual element methods for coupled stress-assisted diffusion problems.
+R. Khot, AE. Rubiano and R. Ruiz-Baier, SIAM Journal on Scientific Computing, 2024.
+
+* <i>Virtual element methods for the Biot-Kirchhoff Poroelasticity.
+R. Khot, D. Mora and R. Ruiz-Baier, Mathematics of Computation, 2024.
 
 * <i>Conforming VEM for general second-order elliptic problems with rough data on polygonal meshes and its application to a inverse
 source problem.
