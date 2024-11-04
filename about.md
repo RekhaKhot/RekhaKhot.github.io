@@ -10,7 +10,11 @@ title: About
 <br>
 SERENA Team,
 <br>
-INRIA, Paris, France.
+INRIA, IP Paris, France. 
+<br>
+CERMICS,
+<br>
+ENPC, IP Paris, France.
 <br>
 <br>
 <span style="font-weight:bold">Postdoctoral Research Fellow</span>, January 2023 - December 2023
