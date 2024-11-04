@@ -10,8 +10,8 @@ title: Research
         	<li class="hover-item">Numerical Analysis </li>
         	<li class="hover-item">Finite Element Methods </li>
         	<li class="hover-item">Virtual Element Methods  </li>
-        	<li class="hover-item">Hybrid High Order Methods  </li>
-        	<li class="hover-item">Polytopal Methods  </li>
+        	<li class="hover-item">Hybrid High-Order Methods  </li>
+        	<li class="hover-item">Polyhedral Methods  </li>
         </ul>
     </div>
 </div>
