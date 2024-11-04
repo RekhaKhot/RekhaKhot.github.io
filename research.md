@@ -30,8 +30,7 @@ title: Research
 <h3 align="center">Preprints</h3>
 
 * <i>Explicit Runge-Kutta schemes with hybrid high-order methods for the wave equation in first-order form.
-A. Ern and R. Khot, 2024
-[hal-04763478]( https://hal.science/hal-04763478)
+A. Ern and R. Khot, 2024. [(hal-04763478)](https://hal.science/hal-04763478).
 
 <h3 align="center">Published/Accepted</h3>
 
